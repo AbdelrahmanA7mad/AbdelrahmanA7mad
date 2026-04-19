@@ -6,6 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Gmail-abdelra7man.ahmad-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdelra7man.ahmad@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-ahmed-00120122a)
+[![Twitter/X](https://img.shields.io/badge/X-Abd0A7md-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Abd0A7md)
 
 </div>
 
@@ -37,15 +38,6 @@ Security   │ OWASP Top 10  Web Penetration Testing
 
 - 🥇 **9th place** in a Generative AI Hackathon
 - 📦 **300+ downloads** on ShareU with zero marketing
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
