@@ -5,8 +5,7 @@
 **Abdelrahman Ahmed** · Computer Engineering @ Zagazig University · Egypt 🇪🇬
 
 [![Email](https://img.shields.io/badge/Gmail-abdelra7man.ahmad-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdelra7man.ahmad@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelrahman-ahmed)
-![Linux](https://img.shields.io/badge/Daily%20Driver-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-ahmed-00120122a)
 
 </div>
 
@@ -38,8 +37,6 @@ Security   │ OWASP Top 10  Web Penetration Testing
 
 - 🥇 **9th place** in a Generative AI Hackathon
 - 📦 **300+ downloads** on ShareU with zero marketing
-- 🛡️ Found real vulnerabilities in production systems via pentesting
-
 ---
 
 <div align="center">
