@@ -36,7 +36,6 @@ Security   │ OWASP Top 10  Web Penetration Testing
 
 ### 🏆 Highlights
 
-- 🥇 **9th place** in a Generative AI Hackathon
 - 📦 **300+ downloads** on ShareU with zero marketing
 
 ---
